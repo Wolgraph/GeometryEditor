@@ -1,0 +1,121 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7": {
+      "Unity3D.UnityEngine/2018.3.5.1": {
+        "type": "package",
+        "compile": {
+          "lib/UnityEngine.dll": {}
+        },
+        "runtime": {
+          "lib/UnityEngine.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7/win": {
+      "Unity3D.UnityEngine/2018.3.5.1": {
+        "type": "package",
+        "compile": {
+          "lib/UnityEngine.dll": {}
+        },
+        "runtime": {
+          "lib/UnityEngine.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7/win-x64": {
+      "Unity3D.UnityEngine/2018.3.5.1": {
+        "type": "package",
+        "compile": {
+          "lib/UnityEngine.dll": {}
+        },
+        "runtime": {
+          "lib/UnityEngine.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7/win-x86": {
+      "Unity3D.UnityEngine/2018.3.5.1": {
+        "type": "package",
+        "compile": {
+          "lib/UnityEngine.dll": {}
+        },
+        "runtime": {
+          "lib/UnityEngine.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Unity3D.UnityEngine/2018.3.5.1": {
+      "sha512": "63ZCYwGdoBCmsJCUI6dodSY+1TrU/7lTDmfF+492Z6nn8my30E3sb5HXLe7qm7MLvBIcKz9TCy114yu5VGycKA==",
+      "type": "package",
+      "path": "unity3d.unityengine/2018.3.5.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/UnityEngine.dll",
+        "lib/UnityEngine.xml",
+        "unity3d.unityengine.2018.3.5.1.nupkg.sha512",
+        "unity3d.unityengine.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7": [
+      "Unity3D.UnityEngine >= 2018.3.5.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Utente\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Documenti\\Visual Studio 2017\\Projects\\GeometryEditor\\GeometryEditor\\GeometryEditor.csproj",
+      "projectName": "GeometryEditor",
+      "projectPath": "D:\\Documenti\\Visual Studio 2017\\Projects\\GeometryEditor\\GeometryEditor\\GeometryEditor.csproj",
+      "packagesPath": "C:\\Users\\Utente\\.nuget\\packages\\",
+      "outputPath": "D:\\Documenti\\Visual Studio 2017\\Projects\\GeometryEditor\\GeometryEditor\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\Utente\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net47"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net47": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net47": {
+        "dependencies": {
+          "Unity3D.UnityEngine": {
+            "target": "Package",
+            "version": "[2018.3.5.1, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

@@ -1,0 +1,7 @@
+D:\Documenti\Visual Studio 2017\Projects\GeometryEditor\GeometryEditor\obj\Debug\GeometryEditor.csproj.CoreCompileInputs.cache
+D:\Documenti\Visual Studio 2017\Projects\GeometryEditor\GeometryEditor\bin\Debug\GeometryEditor.dll
+D:\Documenti\Visual Studio 2017\Projects\GeometryEditor\GeometryEditor\bin\Debug\GeometryEditor.pdb
+D:\Documenti\Visual Studio 2017\Projects\GeometryEditor\GeometryEditor\bin\Debug\UnityEngine.dll
+D:\Documenti\Visual Studio 2017\Projects\GeometryEditor\GeometryEditor\obj\Debug\GeometryEditor.csproj.CopyComplete
+D:\Documenti\Visual Studio 2017\Projects\GeometryEditor\GeometryEditor\obj\Debug\GeometryEditor.dll
+D:\Documenti\Visual Studio 2017\Projects\GeometryEditor\GeometryEditor\obj\Debug\GeometryEditor.pdb
