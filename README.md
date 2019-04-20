@@ -1,5 +1,7 @@
 Thanks for downloading my project!
 
+This C# Class is designed to work on Unity3D, but with some adjustment you can make it work with every software.
+
 This is the very first version of a class which can read geometry information and returns the mesh with unified winding order of the triangles' indices.
 
 The method fix the indices making the correspoding triangle to point outward (i.e. any character, forniture, architecture, ecc.)
